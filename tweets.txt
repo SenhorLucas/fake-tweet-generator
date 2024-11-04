@@ -1,0 +1,11 @@
+
+This is tweet number one. Leading/trailing blanks and new lines are removed.
+
+---
+A tripple dash separates this second tweet from the first one
+---
+Some inpirational quote here.
+
+And some more.
+
+The end.

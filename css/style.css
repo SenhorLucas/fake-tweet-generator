@@ -407,7 +407,7 @@ main .tweet-desk .tweet .content .tweet_info {
   display: flex;
 }
 main .tweet-desk .tweet .stats {
-  border-top: 1px #eff3f4 solid;
+  /*border-top: 1px #eff3f4 solid;*/
   color: #536471;
   padding: 16px 4px;
   display: flex;
@@ -429,7 +429,7 @@ main .tweet-desk .tweet .stats .stat.hide {
   }
 }
 main .tweet-desk .tweet .tail {
-  border-top: 1px #eff3f4 solid;
+  /*border-top: 1px #eff3f4 solid;*/
   padding: 12px 0;
   display: flex;
   justify-content: space-around;
@@ -455,14 +455,14 @@ main .tweet-desk .tweet.dim .content .tweet_info .tweet_client {
   color: #1b95e0;
 }
 main .tweet-desk .tweet.dim .stats {
-  border-top: 1px #38444d solid;
+  /*border-top: 1px #38444d solid;*/
   color: #798a96;
 }
 main .tweet-desk .tweet.dim .stats .stat .count {
   color: white;
 }
 main .tweet-desk .tweet.dim .tail {
-  border-top: 1px #38444d solid;
+  /*border-top: 1px #38444d solid;*/
 }
 main .tweet-desk .tweet.dim .tail svg {
   color: #798a96;
@@ -485,14 +485,14 @@ main .tweet-desk .tweet.dark .content .tweet_info .tweet_client {
   color: #1b95e0;
 }
 main .tweet-desk .tweet.dark .stats {
-  border-top: 1px #2f3336 solid;
+  /*border-top: 1px #2f3336 solid;*/
   color: #6e767d;
 }
 main .tweet-desk .tweet.dark .stats .stat .count {
   color: #d9d9d9;
 }
 main .tweet-desk .tweet.dark .tail {
-  border-top: 1px #2f3336 solid;
+  /*border-top: 1px #2f3336 solid;*/
 }
 main .tweet-desk .tweet.dark .tail svg {
   color: #6e767d;

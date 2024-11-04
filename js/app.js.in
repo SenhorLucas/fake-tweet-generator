@@ -2,15 +2,10 @@ const avatar = './assets/avatar.jpg'
 const fileName = document.getElementById('file-name');
 const fullname = 'Lucas Viiana'
 const username = 'ViianaCodes'
-const message = `Some inpirational quote here.
-
-And some more.
-
-The end.
-`
-const retweets = 132
-const quotes = 0
-const likes = 4258
+const message = 'Hello there!'
+const retweets = 100
+const quotes = 23
+const likes = 3123
 const themeRadios = 'dark'  // dim, dark, anything else
 const verified = true
 
